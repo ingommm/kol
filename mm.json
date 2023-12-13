@@ -1,12 +1,12 @@
 {
   "Ads": {
-    "ad_status" : "0",
+    "ad_status" : "1",
     
     "_comment" : "admob , google_ad_manager , fan, applovin_max, ironsource, startapp, applovin_discovery",
-    "ad_banner" : "admob",
-    "ad_inter" : "admob",
-    "ad_native" : "admob",
-    "openapp" : "admob",
+    "ad_banner" : "fan",
+    "ad_inter" : "fan",
+    "ad_native" : "fan",
+    "openapp" : "fan",
     "back_up" : "none",
     "ad_interval" : 1 ,
     
